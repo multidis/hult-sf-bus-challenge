@@ -1,2 +1,6 @@
-# hult-sf-bus-challenge
-Business Challenge I at Hult International Business School, San Francisco.
+# Business Challenge I
+
+Business Analytics Program
+
+Pavel Paramonov, Hult International Business School, San Francisco.
+
