@@ -1,0 +1,26 @@
+SYS_FIELD_NAME,FIELD_DESC
+YEAR,Year
+QUARTER,Quarter (1-4)
+MONTH,Month
+ORIGIN_AIRPORT_ID,"Origin Airport, Airport ID. An identification number assigned by US DOT to identify a unique airport.  Use this field for airport analysis across a range of years because an airport can change its airport code and airport codes can be reused."
+ORIGIN,Origin Airport Code
+ORIGIN_CITY_NAME,"Origin Airport, City Name"
+ORIGIN_STATE_ABR,"Origin Airport, State"
+ORIGIN_STATE_NM,"Origin Airport, State Name"
+ORIGIN_COUNTRY,"Origin Airport, Country"
+ORIGIN_COUNTRY_NAME,"Origin Airport, Country Name"
+DEST_AIRPORT_ID,"Destination Airport, Airport ID. An identification number assigned by US DOT to identify a unique airport.  Use this field for airport analysis across a range of years because an airport can change its airport code and airport codes can be reused."
+DEST,Destination Airport Code
+DEST_CITY_NAME,"Dest Airport, City Name"
+DEST_STATE_ABR,"Destination Airport, State"
+DEST_STATE_NM,"Destination Airport, State Name"
+DEST_COUNTRY,"Destination Airport, Country"
+DEST_COUNTRY_NAME,"Destination Airport, Country Name"
+UNIQUE_CARRIER,"Unique Carrier Code. When the same code has been used by multiple carriers, a numeric suffix is used for earlier users, for example, PA, PA(1), PA(2). Use this field for analysis across a range of years."
+UNIQUE_CARRIER_NAME,"Unique Carrier Name. When the same name has been used by multiple carriers, a numeric suffix is used for earlier users, for example, Air Caribbean, Air Caribbean (1)."
+DISTANCE_GROUP,"Distance Intervals, every 500 Miles, for Flight Segment"
+CLASS,Service Class
+PASSENGERS,On-Flight Market Passengers Enplaned
+FREIGHT,On-Flight Market Freight Enplaned (pounds)
+MAIL,On-Flight Market Mail Enplaned (pounds)
+DISTANCE,Distance between airports (miles)
