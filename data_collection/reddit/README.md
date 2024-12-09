@@ -38,3 +38,8 @@ Follow the code in the `reddit_collect_content.ipynb` notebook. Modify the subre
 
 The data collected will be saved in `raw_post_comment_data.json` which you can inspect in a web browser or most text editors and proceed with the analysis (for instance, reading it into a pandas DataFrame).
 
+
+# Collected posts and comments analysis
+
+Starter example `reddit_explore_starter.ipynb`.
+
